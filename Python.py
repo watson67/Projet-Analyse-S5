@@ -80,7 +80,6 @@ def histogramme1D(Ntot, n):
 
 Ntot = 100000
 n = 100
-
 histogramme1D(Ntot,n)
 
 #%%
@@ -141,7 +140,7 @@ def histogramme1D_retour_à_0(Ntot, n):
     print(Liste)
 
 Ntot = 10
-n = 4
+n = 5
 histogramme1D_retour_à_0(Ntot,n)
 
 
